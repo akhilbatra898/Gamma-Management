@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Tax" value="name:TaxSR;datatype:int,name:authority;datatype:string,name:tax_slab;datatype:blob,name:tax_rate;datatype:int,name:commodity_name;datatype:string" />
+</info>

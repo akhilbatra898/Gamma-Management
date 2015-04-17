@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Output" value="name:OutputSR;datatype:int,name:product;datatype:string,name:volume;datatype:real,name:temp;datatype:real,name:storage_needed;datatype:real,name:curr_market_val;datatype:real" />
+	<infoitem key="UD_Inputforform" value="name:product;datatype:string" />
+	<infoitem key="UD_Raw" value="name:RawSR;datatype:int,name:material;datatype:string,name:market_rate;datatype:int,name:volume;datatype:real,name:expected_use;datatype:string,name:final_use;datatype:string,name:date_of_next_order;datatype:date,name:expiry;datatype:date" />
+</info>

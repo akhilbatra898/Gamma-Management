@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Input" value="name:InpSR;datatype:int,name:product;datatype:string,name:raw_inputs;datatype:blob,name:weight;datatype:int,name:volume;datatype:blob,name:initial_temp;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Preorder" value="name:PreSR;datatype:int,name:good_name;datatype:string,name:transacting_org;datatype:string,name:country;datatype:string,name:currency;datatype:string,name:currency_rate;datatype:real,name:import_duty;datatype:real,name:availability;datatype:int" />
+</info>

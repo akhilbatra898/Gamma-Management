@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Transit" value="name:TranSR;datatype:int,name:carrier;datatype:string,name:route;datatype:string,name:documents_required;datatype:blob,name:place_of_delivery;datatype:string" />
+</info>

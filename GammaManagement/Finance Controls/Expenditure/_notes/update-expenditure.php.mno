@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Expenditure" value="name:ExpSR;datatype:int,name:purpose;datatype:blob,name:amount;datatype:real,name:date_of_payment;datatype:date,name:signee;datatype:string" />
+</info>

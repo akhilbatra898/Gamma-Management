@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_UpdateRaw" value="name:RawSR;datatype:int,name:material;datatype:string,name:market_rate;datatype:int,name:volume;datatype:real,name:expected_use;datatype:string,name:final_use;datatype:string,name:date_of_next_order;datatype:date,name:expiry;datatype:date" />
+</info>

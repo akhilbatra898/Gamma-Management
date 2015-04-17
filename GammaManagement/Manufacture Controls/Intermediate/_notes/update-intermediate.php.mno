@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Intermediate" value="name:MediateSR;datatype:int,name:product;datatype:string,name:concentration;datatype:real,name:temp;datatype:real,name:transfer_rate;datatype:real,name:time_taken;datatype:real,name:amount;datatype:real" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Stock" value="name:StockSR;datatype:int,name:product;datatype:string,name:market_rate;datatype:int,name:shelf_life;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:TaxSR;datatype:int,name:authority;datatype:string,name:tax_slab;datatype:blob,name:tax_rate;datatype:int,name:commodity_name;datatype:string" />
+	<infoitem key="UD_Tax" value="name:TaxSR;datatype:int,name:authority;datatype:string,name:tax_slab;datatype:blob,name:tax_rate;datatype:int,name:commodity_name;datatype:string" />
+</info>

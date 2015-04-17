@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Resale" value="name:ResaleSR;datatype:int,name:available;datatype:real,name:tax;datatype:real,name:market_rate;datatype:real,name:cost_price;datatype:real" />
+</info>

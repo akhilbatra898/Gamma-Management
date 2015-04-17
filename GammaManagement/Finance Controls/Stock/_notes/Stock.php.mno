@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Stock" value="name:StockSR;datatype:int,name:product;datatype:string,name:market_rate;datatype:int,name:shelf_life;datatype:int" />
+</info>
